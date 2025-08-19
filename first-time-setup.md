@@ -1,5 +1,10 @@
 # Arch Linux Hyprland setup guide
 
+list of packages: 
+```
+sudo pacman -S polkit firefox keyd 
+```
+
 ## Dual booting
 todo
 

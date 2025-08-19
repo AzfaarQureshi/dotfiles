@@ -60,11 +60,12 @@ left = home
 right = end
 ```
 3. Enable keyd `sudo systemctl enable keyd --now`
+
 ## Dual booting
 todo
 
 ## Hyprland config
-todo
+1. copy hyprland.conf to ~/.config/hypr/hyprland.conf
 
 ## Electron / Discord
 update configuration to make it work with
